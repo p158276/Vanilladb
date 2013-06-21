@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/core/net/sf/appia/xml/utils"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="SessionProperties.java"
+   text-time="2013-06-18T16:31:38.216330Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="53227b077938faca598f65222209e526"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:38.119324Z"/>
+<entry
+   committed-rev="8425"
+   name="ExecuteXML.java"
+   text-time="2013-06-18T16:31:38.236331Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="9e581595958c9f5add39d6f5a224f2c8"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:38.137325Z"/>
+<entry
+   committed-rev="8425"
+   name="ChannelInfo.java"
+   text-time="2013-06-18T16:31:38.253332Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="b084c3f8b8395a0ef5b40b9a1deee5c8"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:38.152326Z"/>
+<entry
+   committed-rev="8425"
+   name="ChannelProperties.java"
+   text-time="2013-06-18T16:31:38.271333Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="0a612049d9d8ffdbbe29ee4b77f87114"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:38.166327Z"/>
+<entry
+   committed-rev="8425"
+   name="SharingState.java"
+   text-time="2013-06-18T16:31:38.295334Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="e63d80481ca6c5b29152383a4a76a9f3"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:38.183328Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:38.326336Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="8e71ec9f884efa2a68daf2336191bbf4"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:38.195328Z"/>
+</wc-entries>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/vanilladbcomm/vanillacomm/protocols/allAckURB"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="AllAckURBSession.java"
+   text-time="2013-06-18T16:31:54.989289Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="e6ca62feff05939dd6e8eb4a49211606"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:54.952287Z"/>
+<entry
+   committed-rev="8425"
+   name="AllAckURBLayer.java"
+   text-time="2013-06-18T16:31:55.004290Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="7b2c4bbe53d1f88138c5873156d6acad"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:54.967288Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:55.015291Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="0a56af6a0adad532bbeb0c2a398c6cc4"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:54.976288Z"/>
+</wc-entries>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/core/net/sf/appia/protocols/fifo"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="AckEvent.java"
+   text-time="2013-06-18T16:31:40.549463Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="a73632318c576c4dce60510532174a15"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.338451Z"/>
+<entry
+   committed-rev="8425"
+   name="FifoLayer.java"
+   text-time="2013-06-18T16:31:40.573464Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="a40acbca519b6fad9ad5eabcba61f4aa"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.354452Z"/>
+<entry
+   committed-rev="8425"
+   name="PeerWaitingMessage.java"
+   text-time="2013-06-18T16:31:40.594466Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="9ced13a955932fca81edf94141e37e30"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.377453Z"/>
+<entry
+   committed-rev="8425"
+   name="FifoTimer.java"
+   text-time="2013-06-18T16:31:40.620467Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="4f40a6ec99a49f0e716c89e73d00e991"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.397454Z"/>
+<entry
+   committed-rev="8425"
+   name="FifoSession.java"
+   text-time="2013-06-18T16:31:40.641468Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="0f55547794dcf3ad6e0b21cce8b6b8d9"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.418456Z"/>
+<entry
+   committed-rev="8425"
+   name="PeerInfo.java"
+   text-time="2013-06-18T16:31:40.681471Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="5bfef2b785ba003cb42c61a36c72ceac"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.434457Z"/>
+<entry
+   committed-rev="8425"
+   name="WaitingMessage.java"
+   text-time="2013-06-18T16:31:40.700472Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="eb78e76bd5fdf95cbc7d4f5f22bbb61d"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.461458Z"/>
+<entry
+   committed-rev="8425"
+   name="Header.java"
+   text-time="2013-06-18T16:31:40.716473Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="5a693daee935ef25da8869576e8f4c03"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.483459Z"/>
+<entry
+   committed-rev="8425"
+   name="FifoConfig.java"
+   text-time="2013-06-18T16:31:40.730473Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="3536805ee4190e67d67780099930a53c"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.494460Z"/>
+<entry
+   committed-rev="8425"
+   name="FIFOConfigEvent.java"
+   text-time="2013-06-18T16:31:40.745474Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="b1a1e5b491b61a09ded5c0b698269e0e"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.508461Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:40.762475Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="5934b5a450077a708b18d72347f64cc6"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.523462Z"/>
+</wc-entries>

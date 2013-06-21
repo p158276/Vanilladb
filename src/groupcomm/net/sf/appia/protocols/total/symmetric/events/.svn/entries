@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/total/symmetric/events"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="SymmetricChangeTimer.java"
+   text-time="2013-06-18T16:31:49.084951Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="1db253547ae87c35a96ee57d7eeba69d"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:49.033948Z"/>
+<entry
+   committed-rev="8425"
+   name="SymmetricAlive.java"
+   text-time="2013-06-18T16:31:49.103952Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="a4937881119c71940ed0995be2fdb7be"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:49.046949Z"/>
+<entry
+   committed-rev="8425"
+   name="SymmetricAliveTimer.java"
+   text-time="2013-06-18T16:31:49.131954Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="7a4efc5ede9d05f5409156628a8217b0"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:49.062950Z"/>
+</wc-entries>

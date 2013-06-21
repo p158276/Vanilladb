@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/core/net/sf/appia/protocols/common"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="RegisterSocketEvent.java"
+   text-time="2013-06-18T16:31:41.747532Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="0de76f6e716d807fd2ff88a004ea1ab5"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:41.150497Z"/>
+<entry
+   committed-rev="8425"
+   name="NetworkUndeliveredEvent.java"
+   text-time="2013-06-18T16:31:41.761532Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="e97584b5947468aa92acba534658970c"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:41.163498Z"/>
+<entry
+   committed-rev="8425"
+   name="ServiceEvent.java"
+   text-time="2013-06-18T16:31:41.782534Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="238131e8292da8f40ca6dedacbe7d71c"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:41.177499Z"/>
+<entry
+   committed-rev="8425"
+   name="SendableNotDeliveredEvent.java"
+   text-time="2013-06-18T16:31:41.795534Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="5c3117e9ee7e14d10cb004c283279672"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:41.705529Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaThreadFactory.java"
+   text-time="2013-06-18T16:31:41.829536Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="23a64243c03ed43676c0c8d6e2cea166"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:41.715530Z"/>
+<entry
+   committed-rev="8425"
+   name="FIFOUndeliveredEvent.java"
+   text-time="2013-06-18T16:31:41.840537Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="c820aed61338cccfd3d6cc1df5074fb5"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:41.725530Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:41.852538Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="b0a1661db3f08785d5a22baed1372302"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:41.735531Z"/>
+</wc-entries>

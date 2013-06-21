@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/total"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   name="switching"
+   kind="dir"/>
+<entry
+   name="token"
+   kind="dir"/>
+<entry
+   name="hybrid"
+   kind="dir"/>
+<entry
+   name="common"
+   kind="dir"/>
+<entry
+   name="sequencer"
+   kind="dir"/>
+<entry
+   name="sequenceruniform"
+   kind="dir"/>
+<entry
+   name="seto"
+   kind="dir"/>
+<entry
+   name="symmetric"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/total/token"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="TokenTimer.java"
+   text-time="2013-06-18T16:31:46.499803Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="ccec1f7d1818cb5d8d508780ae2dab66"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.315793Z"/>
+<entry
+   committed-rev="8425"
+   name="TotalTokenLayer.java"
+   text-time="2013-06-18T16:31:46.562807Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="70527fe5583879ee4a2a0ef22431bda9"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.331794Z"/>
+<entry
+   committed-rev="8425"
+   name="TokenEvent.java"
+   text-time="2013-06-18T16:31:46.582808Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="a626758ace60b2e1c1483d68b16bc9f0"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.360796Z"/>
+<entry
+   committed-rev="8425"
+   name="Measures.java"
+   text-time="2013-06-18T16:31:46.603809Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="fdad2a12037ead2005b3ba7df806b1f7"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.402798Z"/>
+<entry
+   committed-rev="8425"
+   name="TotalTokenSession.java"
+   text-time="2013-06-18T16:31:46.620810Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="b53b3a5e985bad9e23a7076a3def2acf"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.422799Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:46.639811Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="47075e7fc82389200f901fc726f9de4b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.448801Z"/>
+</wc-entries>

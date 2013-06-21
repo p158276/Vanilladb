@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/core/net/sf/appia/management"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="ManagedSession.java"
+   text-time="2013-06-18T16:31:44.781705Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="da5054eb7314349e5fbcb47b61c61006"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:44.361681Z"/>
+<entry
+   committed-rev="8425"
+   name="AbstractSensorSession.java"
+   text-time="2013-06-18T16:31:44.803706Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="a8bf78e3a0cb2b7844012433ecdcac72"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:44.372682Z"/>
+<entry
+   committed-rev="8425"
+   name="SensorSessionListener.java"
+   text-time="2013-06-18T16:31:44.868710Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="39d72c106897e31b70a9d89dd2b91568"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:44.387683Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaManagementException.java"
+   text-time="2013-06-18T16:31:44.902712Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="c4936a25808e4fa5307b83761762cffc"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:44.420685Z"/>
+<entry
+   committed-rev="8425"
+   name="SensorSession.java"
+   text-time="2013-06-18T16:31:44.913713Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="3e4a7eef5b4527917ab23c5c73834e04"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:44.453686Z"/>
+<entry
+   name="jmx"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:44.928714Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="7634819d871c81bdd701c0afff2e64bb"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:44.753704Z"/>
+</wc-entries>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/loopBack"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="LoopBackLayer.java"
+   text-time="2013-06-18T16:31:49.500975Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="c444b47a1bba72613a3a4a1ac92693ef"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:49.440972Z"/>
+<entry
+   committed-rev="8425"
+   name="LoopBackSession.java"
+   text-time="2013-06-18T16:31:49.518976Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="666ed8f07ef2b65e131dc9b1eea73b89"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:49.457973Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:49.555978Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="3f8ffd04b1f28999ef9508facccea129"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:49.472974Z"/>
+</wc-entries>

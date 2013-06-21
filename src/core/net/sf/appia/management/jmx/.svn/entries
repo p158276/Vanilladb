@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/core/net/sf/appia/management/jmx"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="GenericActuator.java"
+   text-time="2013-06-18T16:31:44.616696Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="a1f6398718ef9d1f97c21a6ca03b2077"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:44.520690Z"/>
+<entry
+   committed-rev="8425"
+   name="ChannelManager.java"
+   text-time="2013-06-18T16:31:44.628696Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="058755e82cd8839b38cc5537952377d8"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:44.539691Z"/>
+<entry
+   committed-rev="8425"
+   name="JMXConfiguration.java"
+   text-time="2013-06-18T16:31:44.659698Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="db1d7b69bb26823b8fd81f244a452c88"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:44.555692Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:44.701701Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="791841efb9814848d8f89894a27438dd"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:44.600695Z"/>
+</wc-entries>

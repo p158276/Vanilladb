@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/vanilladbcomm/vanillacomm/protocols/utils"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="SampleProcess.java"
+   text-time="2013-06-18T16:31:55.845338Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="f4c8e173293b641dcf2680d1af35cf5e"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:55.189300Z"/>
+<entry
+   committed-rev="8425"
+   name="MessageID.java"
+   text-time="2013-06-18T16:31:55.859339Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="c6cf8a1a79fa311d26f7b9d6862a240c"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:55.214302Z"/>
+<entry
+   committed-rev="8425"
+   name="Debug.java"
+   text-time="2013-06-18T16:31:55.878340Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="e2996e2c1798545a9c2b712a35896593"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:55.798335Z"/>
+<entry
+   committed-rev="8425"
+   name="MessageEntry.java"
+   text-time="2013-06-18T16:31:55.890341Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="b65ae5a566d5b8892391a6cfb4dd5910"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:55.807336Z"/>
+<entry
+   committed-rev="8425"
+   name="ProcessSet.java"
+   text-time="2013-06-18T16:31:55.901341Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="2157f7eaec68e80deb0efda0d827bcf0"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:55.829337Z"/>
+</wc-entries>

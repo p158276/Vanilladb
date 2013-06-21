@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/total/common"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="UniformTimer.java"
+   text-time="2013-06-18T16:31:47.563864Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="96216b9957632c190b48c651f740af00"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:47.412856Z"/>
+<entry
+   committed-rev="8425"
+   name="UniformServiceEvent.java"
+   text-time="2013-06-18T16:31:47.596866Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d94cffd35e7f81840bac138ad432c7ac"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:47.431857Z"/>
+<entry
+   committed-rev="8425"
+   name="RegularServiceEvent.java"
+   text-time="2013-06-18T16:31:47.637869Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="f76340b1ae971c9540b4bb5ae820601d"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:47.446858Z"/>
+<entry
+   committed-rev="8425"
+   name="SeqOrderEvent.java"
+   text-time="2013-06-18T16:31:47.700872Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="b86b04ac38edbc5c53250dfbbafbf27a"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:47.468859Z"/>
+<entry
+   committed-rev="8425"
+   name="AckViewEvent.java"
+   text-time="2013-06-18T16:31:47.723873Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="89b2d9f0b8ee69f23b4f1a29f77600a6"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:47.481860Z"/>
+<entry
+   committed-rev="8425"
+   name="SETOServiceEvent.java"
+   text-time="2013-06-18T16:31:47.754875Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="212a8246b712155e7decb124ac74cfb5"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:47.493860Z"/>
+<entry
+   committed-rev="8425"
+   name="UniformInfoEvent.java"
+   text-time="2013-06-18T16:31:47.774876Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d152334573baffc2542117f1ffebfa95"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:47.505861Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:47.811879Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="7e213ece3f232124a42c8cc7fb34195c"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:47.517862Z"/>
+</wc-entries>

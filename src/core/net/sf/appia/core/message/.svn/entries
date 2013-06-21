@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/core/net/sf/appia/core/message"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="AppiaOutOfMemory.java"
+   text-time="2013-06-18T16:31:42.845594Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="8271e3b3dded8fa5d973fb6e96cb2ee5"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.741588Z"/>
+<entry
+   committed-rev="8425"
+   name="MsgBuffer.java"
+   text-time="2013-06-18T16:31:42.857595Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="b31a334498d19afb7bbdb5f4771b4da9"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.749589Z"/>
+<entry
+   committed-rev="8425"
+   name="DefaultMessageFactory.java"
+   text-time="2013-06-18T16:31:42.872596Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="17b901f96537debeccba588e8bf356d2"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.758589Z"/>
+<entry
+   committed-rev="8425"
+   name="MessageException.java"
+   text-time="2013-06-18T16:31:42.885597Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="872cf032213216b52795d5f17da3a487"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.767590Z"/>
+<entry
+   committed-rev="8425"
+   name="Message.java"
+   text-time="2013-06-18T16:31:42.897597Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="80975abc695a6953cc294ce272ed0678"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.792591Z"/>
+<entry
+   committed-rev="8425"
+   name="MsgWalk.java"
+   text-time="2013-06-18T16:31:42.908598Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="7d1e34b3740ba3fd31a9dc4a17286ebb"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.802592Z"/>
+<entry
+   committed-rev="8425"
+   name="MessageFactory.java"
+   text-time="2013-06-18T16:31:42.919599Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="cdb2050f4c7e7d4119f456858e1e83bd"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.811593Z"/>
+<entry
+   committed-rev="8425"
+   name="SerializableObject.java"
+   text-time="2013-06-18T16:31:42.939600Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="824729f9bf932802cc981891a3210464"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.822593Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:42.950600Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="758a39a972b3de67793814fac42bc62e"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.833594Z"/>
+</wc-entries>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/core/net/sf/appia/protocols/drop"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="DropLayer.java"
+   text-time="2013-06-18T16:31:40.873482Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="c1eae2b5735632e8f751a763f78fe89d"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.834479Z"/>
+<entry
+   committed-rev="8425"
+   name="DropSession.java"
+   text-time="2013-06-18T16:31:40.886482Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d633af9cacd43fe4a88aac20f8566ddd"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.843480Z"/>
+<entry
+   committed-rev="8425"
+   name="DropConfig.java"
+   text-time="2013-06-18T16:31:40.905483Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="3c3a4ff82ccd4225b9c0244a132aaa3b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.853481Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:40.924485Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="b5311ad17361d9e59643d581f57ad922"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.862481Z"/>
+</wc-entries>

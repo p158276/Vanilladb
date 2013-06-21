@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/group/heal"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="ConcurrentViewEvent.java"
+   text-time="2013-06-18T16:31:52.497146Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="37a973d59e79696cc07032e115e4ed19"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.407141Z"/>
+<entry
+   committed-rev="8425"
+   name="GossipOutSession.java"
+   text-time="2013-06-18T16:31:52.511147Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="07e78adafe78aefe911620cda738038c"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.421142Z"/>
+<entry
+   committed-rev="8425"
+   name="HelloEvent.java"
+   text-time="2013-06-18T16:31:52.526148Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="78b7dada235f04e5b485b86fa70f19cd"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.432143Z"/>
+<entry
+   committed-rev="8425"
+   name="HealLayer.java"
+   text-time="2013-06-18T16:31:52.537149Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="7a2ba90bda8fe527bea95cb558dca244"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.441143Z"/>
+<entry
+   committed-rev="8425"
+   name="GossipOutLayer.java"
+   text-time="2013-06-18T16:31:52.548149Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d6edc5d9b0f613a1aaf6a96248054041"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.450144Z"/>
+<entry
+   committed-rev="8425"
+   name="HealSession.java"
+   text-time="2013-06-18T16:31:52.565150Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="11df120f5f59b46c096f712c2271b32f"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.467145Z"/>
+<entry
+   committed-rev="8425"
+   name="GossipOutEvent.java"
+   text-time="2013-06-18T16:31:52.578151Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="7e2828ea5c2e86a79933d7036c51294f"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.476145Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:52.589152Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="ed1149af4cabb040f663c962a4ab6826"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.484146Z"/>
+</wc-entries>

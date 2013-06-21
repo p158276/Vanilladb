@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/causalWaiting"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="CausalWaitingSession.java"
+   text-time="2013-06-18T16:31:49.704987Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="40472cce0b1541841a86e143a62bf684"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:49.610981Z"/>
+<entry
+   committed-rev="8425"
+   name="EventContainer.java"
+   text-time="2013-06-18T16:31:49.721988Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="cea325ec5da4d14e819aa66720501e3f"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:49.623982Z"/>
+<entry
+   committed-rev="8425"
+   name="CausalWaitingLayer.java"
+   text-time="2013-06-18T16:31:49.737989Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="da47454a5779536fa6983fd863ed9bcb"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:49.636983Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:49.761990Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="4dc42f5821cca47a0b33e57368944e20"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:49.678985Z"/>
+</wc-entries>

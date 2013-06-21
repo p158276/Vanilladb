@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8502"
+   name=""
+   committed-date="2013-06-18T14:24:49.069354Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/vanilladbcomm/vanillacomm/protocols/zabAppl"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="ZabListener.java"
+   text-time="2013-06-18T16:31:58.014462Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="a1e071f284e04c4dbfe18873a2b42588"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:57.946458Z"/>
+<entry
+   committed-rev="8501"
+   name="ZabApplLayer.java"
+   text-time="2013-06-18T16:31:58.028463Z"
+   committed-date="2013-06-17T13:20:35.220107Z"
+   checksum="59d5bdc1a41a7b5cb6e43d6f8d8d0a55"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:57.961459Z"/>
+<entry
+   committed-rev="8502"
+   name="ZabApplSession.java"
+   text-time="2013-06-18T16:31:58.050464Z"
+   committed-date="2013-06-18T14:24:49.069354Z"
+   checksum="4bebc9679527cb88fff83ebabf27e139"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:57.978460Z"/>
+</wc-entries>

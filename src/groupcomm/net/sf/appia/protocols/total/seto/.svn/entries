@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/total/seto"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="SETOLayer.java"
+   text-time="2013-06-18T16:31:48.826937Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="2b746d01e56534ec7bb5a664087304ee"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:48.732931Z"/>
+<entry
+   committed-rev="8425"
+   name="SETOTimer.java"
+   text-time="2013-06-18T16:31:48.842937Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="ba2f8281e4682182130ff7fc94da7f96"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:48.752932Z"/>
+<entry
+   committed-rev="8425"
+   name="SETOSession.java"
+   text-time="2013-06-18T16:31:48.862939Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="00abebee9b0eb57c79692b98ceb4f9bf"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:48.785934Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:48.883940Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="017ba555e84479f48ce190efee505a59"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:48.808936Z"/>
+</wc-entries>

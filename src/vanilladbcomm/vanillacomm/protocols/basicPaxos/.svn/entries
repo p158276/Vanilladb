@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8436"
+   name=""
+   committed-date="2013-06-14T16:24:14.327345Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/vanilladbcomm/vanillacomm/protocols/basicPaxos"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8436"
+   name="BasicPaxosConsensusSession.java"
+   text-time="2013-06-18T16:31:58.299478Z"
+   committed-date="2013-06-14T16:24:14.327345Z"
+   checksum="452d8ab71353736f6974175dd6feb487"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:58.255476Z"/>
+<entry
+   committed-rev="8425"
+   name="MySetEvent.java"
+   text-time="2013-06-18T16:31:58.316479Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="78b80d3c69c4e8750c16cd8d5c942abd"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:58.268477Z"/>
+<entry
+   committed-rev="8429"
+   name="BasicPaxosConsensusLayer.java"
+   text-time="2013-06-18T16:31:58.360482Z"
+   committed-date="2013-06-14T09:17:31.788395Z"
+   checksum="4cc79016ec09deeff435f45a0f42eb44"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:58.283477Z"/>
+</wc-entries>

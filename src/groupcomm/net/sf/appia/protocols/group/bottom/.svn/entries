@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/group/bottom"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="OtherViews.java"
+   text-time="2013-06-18T16:31:52.300135Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="35e15e70f96969426cefffbe08856d53"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.261133Z"/>
+<entry
+   committed-rev="8425"
+   name="GroupBottomSession.java"
+   text-time="2013-06-18T16:31:52.311136Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="3af57768ba2a926d2e469861c86e63c4"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.272134Z"/>
+<entry
+   committed-rev="8425"
+   name="GroupBottomLayer.java"
+   text-time="2013-06-18T16:31:52.325137Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="37fa5bb267b02892f4df38a19e35a625"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.281134Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:52.337137Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="fa5307c714ff6afc9cb692fe08ccb6ce"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.289135Z"/>
+</wc-entries>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8502"
+   name=""
+   committed-date="2013-06-18T14:24:49.069354Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/config"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   name="xml"
+   kind="dir"/>
+<entry
+   name="demo"
+   kind="dir"/>
+<entry
+   name="jgcs"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="gossipServer.xml"
+   text-time="2013-06-18T16:32:12.271278Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="e5c5c765f5d62c9fba3cad862b9d82a0"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:12.252276Z"/>
+<entry
+   committed-rev="8502"
+   name="view"
+   text-time="2013-06-18T16:32:12.287278Z"
+   committed-date="2013-06-18T14:24:49.069354Z"
+   checksum="15f820d70deb09589d2567a8c7b5926a"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:12.259277Z"/>
+</wc-entries>

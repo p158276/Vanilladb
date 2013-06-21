@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/uniform"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="UniformTimer.java"
+   text-time="2013-06-18T16:31:45.608752Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="b260025e0ab43ac31870b5ca322d4f83"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:45.460744Z"/>
+<entry
+   committed-rev="8425"
+   name="UniformSession.java"
+   text-time="2013-06-18T16:31:45.620753Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="1db48513c595da66d4127fe3a3b1307a"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:45.472745Z"/>
+<entry
+   committed-rev="8425"
+   name="MessageContainer.java"
+   text-time="2013-06-18T16:31:45.907770Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="e925336e7d723a080ed51b70c4a8a16a"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:45.489746Z"/>
+<entry
+   committed-rev="8425"
+   name="UniformLayer.java"
+   text-time="2013-06-18T16:31:45.927771Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d4208e6fa7646e28c4a563664a8c26e1"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:45.572750Z"/>
+<entry
+   committed-rev="8425"
+   name="UniformInfoEvent.java"
+   text-time="2013-06-18T16:31:45.940771Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="a413b82f5ca95d20bcad1662aad9004c"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:45.583751Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:45.953772Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="df73ab3630b4ff9f9fa3cf708a7b2119"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:45.595752Z"/>
+</wc-entries>

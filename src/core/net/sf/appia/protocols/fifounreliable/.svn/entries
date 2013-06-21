@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/core/net/sf/appia/protocols/fifounreliable"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="FifoUnreliableLayer.java"
+   text-time="2013-06-18T16:31:41.021490Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="7ddeef95ad234cceef29bcfe7aad70e7"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.968487Z"/>
+<entry
+   committed-rev="8425"
+   name="PeerInfo.java"
+   text-time="2013-06-18T16:31:41.041491Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="b64300e8e06e757db1c06b22c7332f52"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.977488Z"/>
+<entry
+   committed-rev="8425"
+   name="FifoUnreliableSession.java"
+   text-time="2013-06-18T16:31:41.056492Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="5ae24a82fe0be3af349541ec940d8d7d"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.988488Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:41.077493Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="a4a8d022a1cfe9145ccb5879ece21ca8"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:41.002489Z"/>
+</wc-entries>

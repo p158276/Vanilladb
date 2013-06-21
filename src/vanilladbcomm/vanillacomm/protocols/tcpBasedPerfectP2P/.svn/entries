@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/vanilladbcomm/vanillacomm/protocols/tcpBasedPerfectP2P"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="TcpBasedPerfectP2PSession.java"
+   text-time="2013-06-18T16:31:55.091295Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="04f4551e3162b8868236b8fbe2cfb753"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:55.052293Z"/>
+<entry
+   committed-rev="8425"
+   name="TcpBasedPerfectP2PLayer.java"
+   text-time="2013-06-18T16:31:55.106296Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="e2643e2db6a8d8ba1509fad604b62d35"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:55.062293Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:55.119296Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="8993ba7949c01062f06c97d101a95a57"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:55.078294Z"/>
+</wc-entries>

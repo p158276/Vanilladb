@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/core/net/sf/appia/core/events"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="SendableEvent.java"
+   text-time="2013-06-18T16:31:43.886654Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d231fa4b2934efd1f1ab4576da9e5d4b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.595637Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaMulticast.java"
+   text-time="2013-06-18T16:31:43.901655Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="ad44a1e6b87e8933cdd9921f1a0f09be"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.603638Z"/>
+<entry
+   name="channel"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="AppiaMulticastSupport.java"
+   text-time="2013-06-18T16:31:43.917656Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="89df010e93bb3ab453d0c62110babf4c"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.865653Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:43.932657Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="9ca74263c03225c04c1cf70166138723"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.875653Z"/>
+</wc-entries>

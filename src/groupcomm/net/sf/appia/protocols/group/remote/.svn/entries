@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/group/remote"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="RemoteViewLayer.java"
+   text-time="2013-06-18T16:31:51.499089Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="91979e2c9772888d4e6edd4b391e8dae"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.436086Z"/>
+<entry
+   committed-rev="8425"
+   name="RemoteGossipOutLayer.java"
+   text-time="2013-06-18T16:31:51.511090Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="15814d1688fffc25e1fe74c111df56fe"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.444086Z"/>
+<entry
+   committed-rev="8425"
+   name="RemoteViewEvent.java"
+   text-time="2013-06-18T16:31:51.522091Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d65f8bf0f84cc9a8a36a280e5f9fda41"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.453087Z"/>
+<entry
+   committed-rev="8425"
+   name="RemoteViewSession.java"
+   text-time="2013-06-18T16:31:51.536092Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="4327a5af1a165b2fffb8589ae8f9daa8"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.470088Z"/>
+<entry
+   committed-rev="8425"
+   name="RemoteGossipOutSession.java"
+   text-time="2013-06-18T16:31:51.548092Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="bc94184848345e09ef55df27d682fe1f"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.479088Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:51.559093Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="1430ae98674da0ccc593cdb4ab14bc4c"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.487089Z"/>
+</wc-entries>

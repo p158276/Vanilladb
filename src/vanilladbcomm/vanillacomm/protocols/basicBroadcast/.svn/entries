@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8502"
+   name=""
+   committed-date="2013-06-18T14:24:49.069354Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/vanilladbcomm/vanillacomm/protocols/basicBroadcast"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8502"
+   name="BasicBroadcastLayer.java"
+   text-time="2013-06-18T16:31:56.437372Z"
+   committed-date="2013-06-18T14:24:49.069354Z"
+   checksum="a02cd7a58db95b52458ce03513b5a560"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.395369Z"/>
+<entry
+   committed-rev="8502"
+   name="BasicBroadcastSession.java"
+   text-time="2013-06-18T16:31:56.453373Z"
+   committed-date="2013-06-18T14:24:49.069354Z"
+   checksum="fab29e5373d392c6e168df26e4161743"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.406370Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:56.467374Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="a268c202f7bd05121e93d7ab98c9b55c"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.419371Z"/>
+</wc-entries>

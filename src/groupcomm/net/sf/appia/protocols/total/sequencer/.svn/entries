@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/total/sequencer"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="InfoMessage.java"
+   text-time="2013-06-18T16:31:48.191900Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="1f764e65c437ff700ac06048d6379c82"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:47.944886Z"/>
+<entry
+   committed-rev="8425"
+   name="TotalOrderEvent.java"
+   text-time="2013-06-18T16:31:48.237903Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="b63227eb080728356d835d8e7df93322"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:47.963887Z"/>
+<entry
+   committed-rev="8425"
+   name="TotalSequencerSession.java"
+   text-time="2013-06-18T16:31:48.270905Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="e1f90a82833712cbcc3fe19992e6a008"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:47.994889Z"/>
+<entry
+   committed-rev="8425"
+   name="TotalSequencerConfig.java"
+   text-time="2013-06-18T16:31:48.296906Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="ade665702ef6ea718fae37e0652e39ca"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:48.032891Z"/>
+<entry
+   committed-rev="8425"
+   name="TotalSequencerHeader.java"
+   text-time="2013-06-18T16:31:48.316907Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="f3d827f83d528e0bd1613570e750cefa"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:48.045892Z"/>
+<entry
+   committed-rev="8425"
+   name="Buffer.java"
+   text-time="2013-06-18T16:31:48.334908Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d081e6e552ae37ea50ee4f4e59019559"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:48.072893Z"/>
+<entry
+   committed-rev="8425"
+   name="TotalSequencerLayer.java"
+   text-time="2013-06-18T16:31:48.381911Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="8e72baa56b41de0457e9223f5869b1a9"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:48.104895Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:48.421913Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="c37a23d268447a985819b841a686414e"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:48.119896Z"/>
+</wc-entries>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8502"
+   name=""
+   committed-date="2013-06-18T14:24:49.069354Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/vanilladbcomm/vanillacomm/protocols/tcpBasedPFD"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="CreateChannelsEvent.java"
+   text-time="2013-06-18T16:31:54.857281Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d27ff09548dd72a56cfcb262b531addb"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:54.792278Z"/>
+<entry
+   committed-rev="8502"
+   name="TcpBasedPFDSession.java"
+   text-time="2013-06-18T16:31:54.869282Z"
+   committed-date="2013-06-18T14:24:49.069354Z"
+   checksum="61fcfe72d58f89fed876dd04aa12a0b0"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:54.803278Z"/>
+<entry
+   committed-rev="8425"
+   name="PFDStartEvent.java"
+   text-time="2013-06-18T16:31:54.882283Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="f850f71ec4053b249e6c51b438579be5"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:54.815279Z"/>
+<entry
+   committed-rev="8425"
+   name="TcpBasedPFDLayer.java"
+   text-time="2013-06-18T16:31:54.896284Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="98bc431285ef89dffc943ccbc999ad0f"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:54.824280Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:54.908284Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="42d4934f3ed32b5a37426955e6a7f95d"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:54.835280Z"/>
+</wc-entries>

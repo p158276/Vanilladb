@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/group/suspect"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="Alive.java"
+   text-time="2013-06-18T16:31:50.987060Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="cc257b9150372baa7804f12f4bd0762a"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:50.860053Z"/>
+<entry
+   committed-rev="8425"
+   name="SuspectLayer.java"
+   text-time="2013-06-18T16:31:51.000061Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="178dd67bef6ec3c696c20f1b66e751da"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:50.875054Z"/>
+<entry
+   committed-rev="8425"
+   name="Suspect.java"
+   text-time="2013-06-18T16:31:51.028062Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="c4e03a49d36dca314af2409925edb40f"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:50.886054Z"/>
+<entry
+   committed-rev="8425"
+   name="SuspectTimer.java"
+   text-time="2013-06-18T16:31:51.050064Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="83827d5d4432130d898268fefba85c4a"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:50.898055Z"/>
+<entry
+   committed-rev="8425"
+   name="SuspectedMemberEvent.java"
+   text-time="2013-06-18T16:31:51.066065Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="6acf8265829401da258c4f872789bad6"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:50.911056Z"/>
+<entry
+   committed-rev="8425"
+   name="SuspectSession.java"
+   text-time="2013-06-18T16:31:51.081065Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="40a28cbeb5cc804d97633be6f389eff9"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:50.930057Z"/>
+<entry
+   committed-rev="8425"
+   name="Fail.java"
+   text-time="2013-06-18T16:31:51.096066Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="e7fd0a1d470cfd2d8ce19e580e853b28"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:50.951058Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:51.112067Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="4b24f18484f159877832e69c1ac9361d"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:50.965059Z"/>
+</wc-entries>

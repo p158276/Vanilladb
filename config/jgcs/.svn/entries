@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/config/jgcs"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="phi_fd.xml"
+   text-time="2013-06-18T16:32:12.221275Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d621a1c67ef8d258390aac12b4e6f0e3"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:12.046265Z"/>
+<entry
+   committed-rev="8425"
+   name="appia.xml"
+   text-time="2013-06-18T16:32:12.233275Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="2346d3d6bd942e5992781212457ba5ef"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:12.054265Z"/>
+<entry
+   name="open_group"
+   kind="dir"/>
+</wc-entries>

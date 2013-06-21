@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/core/net/sf/appia/protocols/sslcomplete"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="SslRegisterSocketEvent.java"
+   text-time="2013-06-18T16:31:41.978545Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="ae2bbdbedec3bbfdf47810e3cab8e865"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:41.901540Z"/>
+<entry
+   committed-rev="8425"
+   name="CustomSSLServerSocketFactory.java"
+   text-time="2013-06-18T16:31:41.994546Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="1d28059ce8b52f292c00ff582f412ccd"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:41.911541Z"/>
+<entry
+   committed-rev="8425"
+   name="SslCompleteLayer.java"
+   text-time="2013-06-18T16:31:42.006546Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="2d7d0a63886016da5aad501fc9fa45c5"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:41.921542Z"/>
+<entry
+   committed-rev="8425"
+   name="SslUndeliveredEvent.java"
+   text-time="2013-06-18T16:31:42.022547Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="ea6844d850326e878ccb89bd576a579b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:41.931542Z"/>
+<entry
+   committed-rev="8425"
+   name="CustomSSLSocketFactory.java"
+   text-time="2013-06-18T16:31:42.033548Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d7d0accc86cea45d47c2714553bd57ca"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:41.941543Z"/>
+<entry
+   committed-rev="8425"
+   name="SslCompleteSession.java"
+   text-time="2013-06-18T16:31:42.045549Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="ad27add0075dccbe122358900fa513cb"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:41.955544Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:42.062550Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d7872f915d2f77200568af6c1d6ac9db"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:41.964544Z"/>
+</wc-entries>

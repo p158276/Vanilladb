@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/classes/net/sf/appia/test/perf"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   name="vsyncvalid"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:59.883569Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="559e29db2ba9761a1ce2c192694b9c7f"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:59.861568Z"/>
+</wc-entries>

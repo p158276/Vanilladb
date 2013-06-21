@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/jgcs/protocols/top"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="TOPLayer.java"
+   text-time="2013-06-18T16:31:53.964230Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="1916e253edad2a55d5a71c9b0cc61ca4"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.845224Z"/>
+<entry
+   committed-rev="8425"
+   name="SimpleTOPSession.java"
+   text-time="2013-06-18T16:31:53.975231Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="194091c7e8f321ec61bf6647ba31c5b3"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.858224Z"/>
+<entry
+   committed-rev="8425"
+   name="JGCSReleaseBlock.java"
+   text-time="2013-06-18T16:31:53.996232Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="32c222b2b1eb89c768556bb2b3f48e6c"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.867225Z"/>
+<entry
+   committed-rev="8425"
+   name="JGCSSendEvent.java"
+   text-time="2013-06-18T16:31:54.008233Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="792328d0b226092f6805c8794089e80c"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.879226Z"/>
+<entry
+   committed-rev="8425"
+   name="JGCSLeaveTimer.java"
+   text-time="2013-06-18T16:31:54.022234Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="8ebe21480127b130faa21896d4b669b7"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.890226Z"/>
+<entry
+   committed-rev="8425"
+   name="JGCSGroupEvent.java"
+   text-time="2013-06-18T16:31:54.033234Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="9e82319ea269c3c586f492f1fdd05201"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.899227Z"/>
+<entry
+   committed-rev="8425"
+   name="JGCSLeaveEvent.java"
+   text-time="2013-06-18T16:31:54.044235Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="fb4a2a6508122ea72fff7c6268e7d791"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.907227Z"/>
+<entry
+   committed-rev="8425"
+   name="JGCSSendableEvent.java"
+   text-time="2013-06-18T16:31:54.055236Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="56f5a7fecb5b710f13398263c569cf61"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.918228Z"/>
+<entry
+   committed-rev="8425"
+   name="TOPSession.java"
+   text-time="2013-06-18T16:31:54.067236Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="45792e2c9949a0e7cdd63f149cf92ee1"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.933229Z"/>
+<entry
+   committed-rev="8425"
+   name="JGCSJoinEvent.java"
+   text-time="2013-06-18T16:31:54.080237Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="7ed17c0212c11f8fdae1379cfbd14f0d"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.943229Z"/>
+<entry
+   committed-rev="8425"
+   name="SimpleTOPLayer.java"
+   text-time="2013-06-18T16:31:54.095238Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="3c31b335246bc563c96f81244dd64ebd"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.952230Z"/>
+</wc-entries>

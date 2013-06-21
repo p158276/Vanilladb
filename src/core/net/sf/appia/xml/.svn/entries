@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/core/net/sf/appia/xml"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   name="utils"
+   kind="dir"/>
+<entry
+   name="interfaces"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="Configuration.java"
+   text-time="2013-06-18T16:31:38.807363Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="8e83ddbbfbd321679d1fcec0fd76db79"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:38.499346Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaXMLException.java"
+   text-time="2013-06-18T16:31:38.826365Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d5d959a4a92ad25d4e9f234feaf5ea57"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:38.514347Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaXML.java"
+   text-time="2013-06-18T16:31:38.843366Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="93769e5a2d3dea03acb418f5c171eaa5"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:38.536348Z"/>
+<entry
+   name="templates"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="XMLFileHandler.java"
+   text-time="2013-06-18T16:31:38.861367Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d29081488d900858dddfc1178077894f"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:38.559349Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:38.877367Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="775b71ad8964a17e6542536471f58e49"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:38.584351Z"/>
+</wc-entries>

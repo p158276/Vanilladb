@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/config/demo"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="messenger_int.xml"
+   text-time="2013-06-18T16:32:11.915257Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="c676bba12992d77bf9debb6ec57bf588"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:11.819252Z"/>
+<entry
+   committed-rev="8425"
+   name="managed_perf.xml"
+   text-time="2013-06-18T16:32:11.925258Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="65bc86d44c7826ab1cf69f9c75cf6452"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:11.829252Z"/>
+<entry
+   committed-rev="8425"
+   name="messenger.xml"
+   text-time="2013-06-18T16:32:11.936258Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="35efa927dd487a2e12bc3d0b96928867"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:11.852254Z"/>
+<entry
+   committed-rev="8425"
+   name="ecco1.xml"
+   text-time="2013-06-18T16:32:11.947259Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="3baa123ab541ee34b96a8d6be6be6de5"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:11.862254Z"/>
+<entry
+   committed-rev="8425"
+   name="ecco2.xml"
+   text-time="2013-06-18T16:32:11.963260Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="c4e80923f5130879de2e812fc31e8b89"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:11.869255Z"/>
+<entry
+   committed-rev="8425"
+   name="perf_uniform.xml"
+   text-time="2013-06-18T16:32:11.976261Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="249f22b9838e379c597e5ce72d39ba79"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:11.877255Z"/>
+<entry
+   committed-rev="8425"
+   name="perf.xml"
+   text-time="2013-06-18T16:32:11.987261Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="84f6839dafadc710775b535524706180"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:11.886255Z"/>
+<entry
+   committed-rev="8425"
+   name="perf_ssl.xml"
+   text-time="2013-06-18T16:32:11.998262Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="410024695c0e2c483c2edbf9394a4a7d"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:11.893256Z"/>
+<entry
+   committed-rev="8425"
+   name="perf_primary.xml"
+   text-time="2013-06-18T16:32:12.008262Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="39249213f3296c37c85d4a6a576bb637"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:11.903256Z"/>
+</wc-entries>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/core/net/sf/appia/protocols/nakfifo/multicast"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="ConfirmEvent.java"
+   text-time="2013-06-18T16:31:42.278562Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="f91a0c3ba0b7844573d20bef42d83ca2"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.207558Z"/>
+<entry
+   committed-rev="8425"
+   name="NakFifoMulticastLayer.java"
+   text-time="2013-06-18T16:31:42.304564Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="faaf7661a26db0af52f0b5dafc9172eb"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.216558Z"/>
+<entry
+   committed-rev="8425"
+   name="UpdateEvent.java"
+   text-time="2013-06-18T16:31:42.317564Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="dd92090467d58b88c3d09a646b0a05d9"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.233559Z"/>
+<entry
+   committed-rev="8425"
+   name="NakFifoMulticastSession.java"
+   text-time="2013-06-18T16:31:42.332565Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="46a5b00073b24dfcec83f9eebf37390a"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.253561Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:42.350566Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="c34cc83b33d2afd16ed7cb5a2ad46efd"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.264561Z"/>
+</wc-entries>

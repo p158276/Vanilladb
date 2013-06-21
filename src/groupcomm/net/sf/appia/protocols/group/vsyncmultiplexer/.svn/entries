@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/group/vsyncmultiplexer"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="VSyncMultiplexerSession.java"
+   text-time="2013-06-18T16:31:51.835109Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="20afe1bb97fadfdee522089df983c213"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.794106Z"/>
+<entry
+   committed-rev="8425"
+   name="VSyncMultiplexerLayer.java"
+   text-time="2013-06-18T16:31:51.856110Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="53d8cca4bd119ac9f6e4eefb9abd9ca6"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.810107Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:51.878111Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="05c848ada05c49f335b31b01e0877625"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.820108Z"/>
+</wc-entries>

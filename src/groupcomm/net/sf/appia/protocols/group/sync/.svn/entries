@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/group/sync"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="VSyncLayer.java"
+   text-time="2013-06-18T16:31:53.014176Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="a035c6368c5d0dc0a605c1d8b626f314"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.905170Z"/>
+<entry
+   committed-rev="8425"
+   name="BlockOk.java"
+   text-time="2013-06-18T16:31:53.034177Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="ecebd2c917f4689bc4c508df716fee72"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.919171Z"/>
+<entry
+   committed-rev="8425"
+   name="VSyncSession.java"
+   text-time="2013-06-18T16:31:53.046178Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="cdeb271ed8152eedad56039c74d2b19b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.936172Z"/>
+<entry
+   committed-rev="8425"
+   name="Block.java"
+   text-time="2013-06-18T16:31:53.059179Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="a7856bbf250f5afb7a37978c9ca24b82"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.947172Z"/>
+<entry
+   committed-rev="8425"
+   name="Sync.java"
+   text-time="2013-06-18T16:31:53.071179Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="909941f256689f011882a6999116e065"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.984174Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:53.085180Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="25d1ec9fc6e0839acbb3eeb446de7b04"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.994175Z"/>
+</wc-entries>

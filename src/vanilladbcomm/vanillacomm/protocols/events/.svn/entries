@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8429"
+   name=""
+   committed-date="2013-06-14T09:17:31.788395Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/vanilladbcomm/vanillacomm/protocols/events"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="Crash.java"
+   text-time="2013-06-18T16:31:56.746390Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="1492e1e507b6949e40e1214e29cec047"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.524377Z"/>
+<entry
+   committed-rev="8425"
+   name="PaxosPropose.java"
+   text-time="2013-06-18T16:31:56.762390Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="06f59560d866be31de1000dbee5a3427"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.535377Z"/>
+<entry
+   committed-rev="8425"
+   name="ProcessInitEvent.java"
+   text-time="2013-06-18T16:31:56.786392Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="798dddd267b340ddf5828b4330171137"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.546378Z"/>
+<entry
+   committed-rev="8425"
+   name="UcDecide.java"
+   text-time="2013-06-18T16:31:56.811393Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="8f5684daf0995f7b65f969fdd40a7bcf"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.556379Z"/>
+<entry
+   committed-rev="8425"
+   name="WriteAck.java"
+   text-time="2013-06-18T16:31:56.832394Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="be97f5d3a00b6bd714334d8d57aab992"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.565379Z"/>
+<entry
+   committed-rev="8425"
+   name="Read.java"
+   text-time="2013-06-18T16:31:56.849395Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="016aff166df60ecd6dddc81d63e5843b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.582380Z"/>
+<entry
+   committed-rev="8425"
+   name="Nack.java"
+   text-time="2013-06-18T16:31:56.866396Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="2e002b5d3e0fb7d598263db0c915346f"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.592381Z"/>
+<entry
+   committed-rev="8425"
+   name="NewElection.java"
+   text-time="2013-06-18T16:31:56.879397Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="cc464b823b5b0fdd600f6fea08f8d3f0"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.625383Z"/>
+<entry
+   committed-rev="8425"
+   name="Vote.java"
+   text-time="2013-06-18T16:31:56.895398Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="b83dfe23495893ba21c1b90091833757"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.633383Z"/>
+<entry
+   committed-rev="8425"
+   name="ConsensusDecide.java"
+   text-time="2013-06-18T16:31:56.909399Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="0754fe1fa43b635154546c47ff45967d"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.652384Z"/>
+<entry
+   committed-rev="8425"
+   name="UcPropose.java"
+   text-time="2013-06-18T16:31:56.929400Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="03a9bdd5599d6bd5a46e9af7ab51c969"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.662385Z"/>
+<entry
+   committed-rev="8425"
+   name="Decided.java"
+   text-time="2013-06-18T16:31:56.947401Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="9213263d41b4aa28950a8a0d87524982"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.673385Z"/>
+<entry
+   committed-rev="8425"
+   name="ConsensusPropose.java"
+   text-time="2013-06-18T16:31:56.964402Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="4f997dde1ddf0e6696ca99a11e8406aa"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.684386Z"/>
+<entry
+   committed-rev="8429"
+   name="PaxosReturn.java"
+   text-time="2013-06-18T16:31:56.981403Z"
+   committed-date="2013-06-14T09:17:31.788395Z"
+   checksum="2ff42fd07a9f3e710c1fb49baf6889aa"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.693386Z"/>
+<entry
+   committed-rev="8425"
+   name="ReadAck.java"
+   text-time="2013-06-18T16:31:56.994404Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="59104f3b34fb7abc157925b7998f94b6"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.720388Z"/>
+<entry
+   committed-rev="8425"
+   name="Write.java"
+   text-time="2013-06-18T16:31:57.007404Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="f2e280ac57ca95ce069280524af01db5"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.733389Z"/>
+</wc-entries>

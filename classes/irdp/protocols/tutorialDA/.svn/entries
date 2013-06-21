@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/classes/irdp/protocols/tutorialDA"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   name="uniformHierarchicalConsensus"
+   kind="dir"/>
+<entry
+   name="trbViewSync"
+   kind="dir"/>
+<entry
+   name="tcpBasedPFD"
+   kind="dir"/>
+<entry
+   name="hierarchicalConsensus"
+   kind="dir"/>
+<entry
+   name="tcpBasedPerfectP2P"
+   kind="dir"/>
+<entry
+   name="noWaitingCO"
+   kind="dir"/>
+<entry
+   name="waitingCO"
+   kind="dir"/>
+<entry
+   name="readOneWriteAll1NRR"
+   kind="dir"/>
+<entry
+   name="majorityAckURB"
+   kind="dir"/>
+<entry
+   name="consensusTRB"
+   kind="dir"/>
+<entry
+   name="readImposeWriteConsultNNAR"
+   kind="dir"/>
+<entry
+   name="print"
+   kind="dir"/>
+<entry
+   name="consensusMembership"
+   kind="dir"/>
+<entry
+   name="sampleAppl"
+   kind="dir"/>
+<entry
+   name="delay"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:32:11.657242Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="b6386d3860a409d94c09a3b1060386b5"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:07.564008Z"/>
+<entry
+   name="allAckURB"
+   kind="dir"/>
+<entry
+   name="utils"
+   kind="dir"/>
+<entry
+   name="consensusUtils"
+   kind="dir"/>
+<entry
+   name="floodingConsensus"
+   kind="dir"/>
+<entry
+   name="uniformFloodingConsensus"
+   kind="dir"/>
+<entry
+   name="lazyRB"
+   kind="dir"/>
+<entry
+   name="gcPastCO"
+   kind="dir"/>
+<entry
+   name="events"
+   kind="dir"/>
+<entry
+   name="consensusNBAC"
+   kind="dir"/>
+<entry
+   name="basicBroadcast"
+   kind="dir"/>
+<entry
+   name="eagerPB"
+   kind="dir"/>
+<entry
+   name="consensusUTO"
+   kind="dir"/>
+<entry
+   name="membershipUtils"
+   kind="dir"/>
+<entry
+   name="readImposeWriteAll1NAR"
+   kind="dir"/>
+</wc-entries>

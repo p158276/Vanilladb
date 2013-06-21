@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/core/net/sf/appia/core"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="AppiaDuplicatedSessionsException.java"
+   text-time="2013-06-18T16:31:43.986660Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="7cee0fc474d0d0d5c2576ff5e37430f1"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.667584Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaMBeanContainer.java"
+   text-time="2013-06-18T16:31:43.999660Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="20a9072877b5cd5814126a9a3e2e69ca"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.678585Z"/>
+<entry
+   committed-rev="8425"
+   name="QoS.java"
+   text-time="2013-06-18T16:31:44.017661Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="a1a883fa725df0a2a1c5c7bf261b3db5"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.691586Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaInvalidQoSException.java"
+   text-time="2013-06-18T16:31:44.033662Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="8a0da3141ed344283b8be2f452910ca7"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.701586Z"/>
+<entry
+   name="message"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="AppiaError.java"
+   text-time="2013-06-18T16:31:44.044663Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="7cf1727b6394f2bf024a9253de16fa01"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.972602Z"/>
+<entry
+   committed-rev="8425"
+   name="AbstractAppiaRunnable.java"
+   text-time="2013-06-18T16:31:44.055664Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="742c8633ab8162b8b0ac27c5514a52dd"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.982602Z"/>
+<entry
+   committed-rev="8425"
+   name="ChannelCursor.java"
+   text-time="2013-06-18T16:31:44.069664Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="4319838befad9714542a554b7704effd"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.995603Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaCursorException.java"
+   text-time="2013-06-18T16:31:44.081665Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="29ebf5fc558b7a274fa2b486b3245358"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.007604Z"/>
+<entry
+   committed-rev="8425"
+   name="Channel.java"
+   text-time="2013-06-18T16:31:44.093666Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d1640368908958c18fec3e5dbc59cc88"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.023605Z"/>
+<entry
+   committed-rev="8425"
+   name="TimeProvider.java"
+   text-time="2013-06-18T16:31:44.111667Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="93566060d639bc59491f3a2155891bfa"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.033605Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaException.java"
+   text-time="2013-06-18T16:31:44.123668Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="9f6327089e54b93e6a960385d3fdb77b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.047606Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaEventException.java"
+   text-time="2013-06-18T16:31:44.147669Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="efee6aeefc9f89180c3a8ab5477419f8"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.066607Z"/>
+<entry
+   committed-rev="8425"
+   name="TimerManager.java"
+   text-time="2013-06-18T16:31:44.135668Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="33dd1ac760970c6b5ecfb3a23612af97"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.057607Z"/>
+<entry
+   committed-rev="8425"
+   name="Layer.java"
+   text-time="2013-06-18T16:31:44.159670Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="73f5e0fce8233294a5761f515aeebadb"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.075608Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:44.170670Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="e5201193ec2882d5c643e3736712cc33"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.083608Z"/>
+<entry
+   committed-rev="8425"
+   name="Direction.java"
+   text-time="2013-06-18T16:31:44.182671Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="88027341221487d44108a554b698daac"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.104609Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaConfig.java"
+   text-time="2013-06-18T16:31:44.193672Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="bd2c352964def0316a309a1a08c82200"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.134611Z"/>
+<entry
+   committed-rev="8425"
+   name="EventScheduler.java"
+   text-time="2013-06-18T16:31:44.204672Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="109bbe45d8df1821e1d652a066b2f004"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.149612Z"/>
+<entry
+   committed-rev="8425"
+   name="Event.java"
+   text-time="2013-06-18T16:31:44.219673Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="8a359c5a75248316d3966d8db7b7f12c"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.161613Z"/>
+<entry
+   name="memoryManager"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="EventQualifier.java"
+   text-time="2013-06-18T16:31:44.232674Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="f39f54c9b37ae3e51aa5c1313f558033"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.171613Z"/>
+<entry
+   committed-rev="8425"
+   name="QoSEventRoute.java"
+   text-time="2013-06-18T16:31:44.244674Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="7cda227989ac0dde0088805f8f604877"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.182614Z"/>
+<entry
+   committed-rev="8425"
+   name="Session.java"
+   text-time="2013-06-18T16:31:44.255675Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="022da2f0556a70c9ed608cf5097eb367"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.191614Z"/>
+<entry
+   name="events"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="ChannelEventRoute.java"
+   text-time="2013-06-18T16:31:44.266676Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="567a776a5a7c5032472d911557472607"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.953658Z"/>
+<entry
+   committed-rev="8425"
+   name="Appia.java"
+   text-time="2013-06-18T16:31:44.291677Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="8aa0de58a78e42162efd260f51d39e5f"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.963658Z"/>
+<entry
+   committed-rev="8425"
+   name="ManagementServerFactory.java"
+   text-time="2013-06-18T16:31:44.304678Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d25c32108854d62c197332959a33bcd4"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.973659Z"/>
+</wc-entries>

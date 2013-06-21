@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/group/leave"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="LeaveSession.java"
+   text-time="2013-06-18T16:31:51.677100Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="77015ff2a512163bcff7efd8f8357d16"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.631097Z"/>
+<entry
+   committed-rev="8425"
+   name="LeaveLayer.java"
+   text-time="2013-06-18T16:31:51.697101Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="ceb40d05c932fa5515604c1ba86c38ca"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.640097Z"/>
+<entry
+   committed-rev="8425"
+   name="ExitEvent.java"
+   text-time="2013-06-18T16:31:51.710101Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="836d829a67e9079612a94f5a5a457337"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.648098Z"/>
+<entry
+   committed-rev="8425"
+   name="LeaveEvent.java"
+   text-time="2013-06-18T16:31:51.722102Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="9c68f99e62ff26cff43e170ff2ffee23"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.657098Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:51.733103Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="48044154353bdc7354c7bbd63c1c9324"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.665099Z"/>
+</wc-entries>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/group/inter"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="MergeTimer.java"
+   text-time="2013-06-18T16:31:50.237017Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="6384b29e730a7b78e951cf0d6dc598b9"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:50.077008Z"/>
+<entry
+   committed-rev="8425"
+   name="MergeEvent.java"
+   text-time="2013-06-18T16:31:50.267019Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="acc4c0ede342fe7ca1de4d255967fe73"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:50.109010Z"/>
+<entry
+   committed-rev="8425"
+   name="InterSession.java"
+   text-time="2013-06-18T16:31:50.313022Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="60adca683142e477f7add48793a3e825"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:50.128011Z"/>
+<entry
+   committed-rev="8425"
+   name="InterLayer.java"
+   text-time="2013-06-18T16:31:50.427028Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="5765bf32914c4fbb08750625f0cdd994"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:50.164013Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:50.461030Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="e84b631e0dc7929a6a6ac5fecaa7a3e5"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:50.195015Z"/>
+</wc-entries>

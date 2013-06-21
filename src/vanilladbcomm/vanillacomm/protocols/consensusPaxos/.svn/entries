@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8436"
+   name=""
+   committed-date="2013-06-14T16:24:14.327345Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/vanilladbcomm/vanillacomm/protocols/consensusPaxos"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8436"
+   name="ConsensusPaxosSession.java"
+   text-time="2013-06-18T16:31:58.155470Z"
+   committed-date="2013-06-14T16:24:14.327345Z"
+   checksum="5435477907d845b4503ef2db0bb4b37c"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:58.119468Z"/>
+<entry
+   committed-rev="8429"
+   name="ConsensusPaxosLayer.java"
+   text-time="2013-06-18T16:31:58.183472Z"
+   committed-date="2013-06-14T09:17:31.788395Z"
+   checksum="9233d97985f6fd8ac4d8f776ed9eec6b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:58.133469Z"/>
+</wc-entries>

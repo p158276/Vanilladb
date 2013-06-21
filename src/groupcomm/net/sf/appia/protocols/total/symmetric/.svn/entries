@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/total/symmetric"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="Utils.java"
+   text-time="2013-06-18T16:31:49.251961Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="c5c73beaf7e4261c64e1f4c09de5b156"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:48.949944Z"/>
+<entry
+   name="events"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="TotalSymmetricSession.java"
+   text-time="2013-06-18T16:31:49.271962Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="6331db2be2476f1b59748e6a0c4a4f7f"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:48.965945Z"/>
+<entry
+   committed-rev="8425"
+   name="MsgTotalSymmetric.java"
+   text-time="2013-06-18T16:31:49.290963Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="93c8cd6f17ce210b5c31cedd8edf787b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:49.167956Z"/>
+<entry
+   committed-rev="8425"
+   name="SUMMARY"
+   text-time="2013-06-18T16:31:49.306964Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="fc2d3c9ac973d1e9388af238e62643de"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:49.205958Z"/>
+<entry
+   committed-rev="8425"
+   name="TotalSymmetricLayer.java"
+   text-time="2013-06-18T16:31:49.332966Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="36e58cadea6affd7a288bcf541327212"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:49.231960Z"/>
+</wc-entries>

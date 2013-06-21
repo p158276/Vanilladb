@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8429"
+   name=""
+   committed-date="2013-06-14T09:17:31.788395Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/vanilladbcomm/vanillacomm/protocols/uniformFloodingConsensus"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8429"
+   name="UniformFloodingConsensusLayer.java"
+   text-time="2013-06-18T16:31:56.304364Z"
+   committed-date="2013-06-14T09:17:31.788395Z"
+   checksum="4d942045be46d0b73020521e96ca3792"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.257362Z"/>
+<entry
+   committed-rev="8429"
+   name="MySetEvent.java"
+   text-time="2013-06-18T16:31:56.316365Z"
+   committed-date="2013-06-14T09:17:31.788395Z"
+   checksum="b6a259def40f39fa6581cec805866235"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.268362Z"/>
+<entry
+   committed-rev="8429"
+   name="UniformFloodingConsensusSession.java"
+   text-time="2013-06-18T16:31:56.328366Z"
+   committed-date="2013-06-14T09:17:31.788395Z"
+   checksum="d5dcbac82f141f83ea1c51e35c3272d5"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.284363Z"/>
+<entry
+   committed-rev="8429"
+   name="package.html"
+   text-time="2013-06-18T16:31:56.342366Z"
+   committed-date="2013-06-14T09:17:31.788395Z"
+   checksum="8468f951f38fb498e008f5b1eca3fd6d"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:56.292364Z"/>
+</wc-entries>

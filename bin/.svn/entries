@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/bin"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="gossipServer.bat"
+   text-time="2013-06-18T16:32:13.058323Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="b537fa8506b4b7ea7cf71ed34da4e5f0"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:13.015320Z"/>
+<entry
+   committed-rev="8425"
+   name="open-client-test.sh"
+   text-time="2013-06-18T16:32:13.070323Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="62113119824404520e9a786610c15622"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:13.031321Z"/>
+<entry
+   committed-rev="8425"
+   name="gossipServer.sh"
+   text-time="2013-06-18T16:32:13.083324Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="5f004ba64dadd879b0e3bcec9d1f381b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:13.039321Z"/>
+<entry
+   committed-rev="8425"
+   name="open-server-test.sh"
+   text-time="2013-06-18T16:32:13.093325Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="c3b61a73294d64b4a6b22c4a49de5c94"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:13.047322Z"/>
+</wc-entries>

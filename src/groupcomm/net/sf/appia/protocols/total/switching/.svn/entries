@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/total/switching"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="SwitchEvent.java"
+   text-time="2013-06-18T16:31:46.125782Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="7c5e43e051760e7e0421c92ef6a84559"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.038777Z"/>
+<entry
+   committed-rev="8425"
+   name="SwitchingSession.java"
+   text-time="2013-06-18T16:31:46.143783Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="314fd20b8aa2df231f08f92844f48eaf"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.056778Z"/>
+<entry
+   committed-rev="8425"
+   name="EventContainer.java"
+   text-time="2013-06-18T16:31:46.163784Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="98a8edba8e996a0b43d07defea4f9d36"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.066779Z"/>
+<entry
+   committed-rev="8425"
+   name="NullEvent.java"
+   text-time="2013-06-18T16:31:46.180785Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="0edd315799f52563e6dca266eb044a8b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.078779Z"/>
+<entry
+   committed-rev="8425"
+   name="SwitchingLayer.java"
+   text-time="2013-06-18T16:31:46.193786Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="7f9e9996eb08b89654738fee3c7ad53a"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.088780Z"/>
+<entry
+   committed-rev="8425"
+   name="NullEventTimer.java"
+   text-time="2013-06-18T16:31:46.214787Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="da104f9fd9b10979b0502dd408af4711"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.098781Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:46.227788Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="4f4a0a3a9f9f78b823b514578dc7d8a4"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.109781Z"/>
+</wc-entries>

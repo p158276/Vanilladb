@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/core/net/sf/appia/core/events/channel"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="PeriodicTimer.java"
+   text-time="2013-06-18T16:31:43.748646Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="49a84f345a72b9302a99c339a8b5f810"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.630639Z"/>
+<entry
+   committed-rev="8425"
+   name="EchoEvent.java"
+   text-time="2013-06-18T16:31:43.760647Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="936c50efa1e3ad135d14db9ac96d5df1"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.638640Z"/>
+<entry
+   committed-rev="8425"
+   name="Timer.java"
+   text-time="2013-06-18T16:31:43.771647Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="da45df7a51888b918c9a8d1e230e88f6"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.662641Z"/>
+<entry
+   committed-rev="8425"
+   name="ExternalEvent.java"
+   text-time="2013-06-18T16:31:43.783648Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="2313f64ed65287bac75ab2ad7835e3ae"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.685642Z"/>
+<entry
+   committed-rev="8425"
+   name="Debug.java"
+   text-time="2013-06-18T16:31:43.798649Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="b24bc3664a183264aeb3593d65004cf1"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.702643Z"/>
+<entry
+   committed-rev="8425"
+   name="ChannelEvent.java"
+   text-time="2013-06-18T16:31:43.809650Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="5379505db3c4efe483daf2c15bd9be27"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.712644Z"/>
+<entry
+   committed-rev="8425"
+   name="ChannelInit.java"
+   text-time="2013-06-18T16:31:43.821650Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="a0857ddbea0533dc2b85ac8de5fecf88"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.721645Z"/>
+<entry
+   committed-rev="8425"
+   name="ChannelClose.java"
+   text-time="2013-06-18T16:31:43.834651Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="24798801096d3c84b92a3ac5299b9525"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.729645Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:43.845652Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="b5a23ad8b065f5be3fb0795ba90b0cc7"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.737645Z"/>
+</wc-entries>

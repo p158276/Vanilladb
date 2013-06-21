@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/group/stable"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="StableGossip.java"
+   text-time="2013-06-18T16:31:52.717159Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d398201b21468f75ee5859e5f9ccfa61"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.632154Z"/>
+<entry
+   committed-rev="8425"
+   name="StableStorage.java"
+   text-time="2013-06-18T16:31:52.728160Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="8ab4cdfa38274250bb3549899a6d1888"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.641155Z"/>
+<entry
+   committed-rev="8425"
+   name="Retransmission.java"
+   text-time="2013-06-18T16:31:52.740160Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="09958cc13d938f8b276de0aaf1695734"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.652155Z"/>
+<entry
+   committed-rev="8425"
+   name="StableInfo.java"
+   text-time="2013-06-18T16:31:52.751161Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="9557e26a54b65324805ff5a55e73bcad"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.661156Z"/>
+<entry
+   committed-rev="8425"
+   name="StableLayer.java"
+   text-time="2013-06-18T16:31:52.762162Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="64d55fe45f1cf917767a1677706ee1a8"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.674157Z"/>
+<entry
+   committed-rev="8425"
+   name="Retransmit.java"
+   text-time="2013-06-18T16:31:52.781163Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="26073c672e49df7632e5da26df6aa117"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.684157Z"/>
+<entry
+   committed-rev="8425"
+   name="StableSession.java"
+   text-time="2013-06-18T16:31:52.809164Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="e9ba03400f5c490dd670aaa86dfd9bb9"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.696158Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:52.823165Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="5f045b95d0f5a84b10aab3e571af74c6"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.705158Z"/>
+</wc-entries>

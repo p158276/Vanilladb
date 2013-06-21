@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/jgcs/protocols/services"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="DefaultServiceLayer.java"
+   text-time="2013-06-18T16:31:54.175242Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="5774f3b28ffbbdefa03fa573d6f90aea"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:54.149241Z"/>
+<entry
+   committed-rev="8425"
+   name="DefaultServiceSession.java"
+   text-time="2013-06-18T16:31:54.190243Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="8fb0d1354d7a0e4a01aff1513c909ad0"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:54.160242Z"/>
+</wc-entries>

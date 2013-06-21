@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/total/sequenceruniform"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="SequencerUniformLayer.java"
+   text-time="2013-06-18T16:31:48.601924Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="e7c0eb1d8e46a8aaa72ee6b6c1c045ce"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:48.509918Z"/>
+<entry
+   committed-rev="8425"
+   name="SequencerUniformSession.java"
+   text-time="2013-06-18T16:31:48.646926Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="f28444f71efc046824239f642bf37bd0"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:48.535920Z"/>
+</wc-entries>

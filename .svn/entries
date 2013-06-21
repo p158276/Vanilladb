@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8502"
+   name=""
+   committed-date="2013-06-18T14:24:49.069354Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="LICENSE"
+   text-time="2013-06-18T16:32:13.261334Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="16898991122eb969b8d580b328056dc6"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:37.657298Z"/>
+<entry
+   committed-rev="8425"
+   name=".project"
+   text-time="2013-06-18T16:32:13.271335Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d0efd41ca13d4e61d150f91d0ba4cf85"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:37.672299Z"/>
+<entry
+   name="target"
+   kind="dir"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="pom.xml"
+   text-time="2013-06-18T16:32:13.281335Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="0d68176811400dce7363a0127fe7ab0a"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:58.675500Z"/>
+<entry
+   committed-rev="8425"
+   name="build.properties"
+   text-time="2013-06-18T16:32:13.294336Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="5b0a59a357b84709634773f44d2995ec"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:58.691501Z"/>
+<entry
+   name="classes"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="README"
+   text-time="2013-06-18T16:32:13.305337Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="928755cf8149f4b483bedb0e2170dab4"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:58.703501Z"/>
+<entry
+   committed-rev="8425"
+   name="build.xml"
+   text-time="2013-06-18T16:32:13.317337Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="6363758bac60b73aca00eee6e9227bcf"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:11.713246Z"/>
+<entry
+   committed-rev="8425"
+   name=".classpath"
+   text-time="2013-06-18T16:32:13.331338Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="c513c4128048f409e0262e2b648434a7"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:11.721246Z"/>
+<entry
+   name="config"
+   kind="dir"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   name="bin"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="CHANGES"
+   text-time="2013-06-18T16:32:13.341339Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="ac22def4cb72ef83788fc173457e5cd1"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:12.952316Z"/>
+<entry
+   committed-rev="8425"
+   name="log4j.properties"
+   text-time="2013-06-18T16:32:13.351339Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="df22bebb8aa72ee531f5ce6725de9876"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:13.119326Z"/>
+<entry
+   committed-rev="8425"
+   name="build-release.xml"
+   text-time="2013-06-18T16:32:13.361340Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="dbb9dde78825cb6c6f4f7c5132335607"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:13.128327Z"/>
+<entry
+   committed-rev="8425"
+   name=".checkstyle"
+   text-time="2013-06-18T16:32:13.371340Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="2db45c1d924a3ad0540d1ceeba34b3dc"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:13.135327Z"/>
+<entry
+   committed-rev="8425"
+   name=".cvsignore"
+   text-time="2013-06-18T16:32:13.383341Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="fcc16a298018d07e697f6fa0fddb40b9"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:13.142327Z"/>
+<entry
+   name=".settings"
+   kind="dir"/>
+</wc-entries>

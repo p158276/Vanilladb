@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/group/intra"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="ViewChange.java"
+   text-time="2013-06-18T16:31:53.235189Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="1c0c2f02a1a861e51b5751d605ba62e2"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.134183Z"/>
+<entry
+   committed-rev="8425"
+   name="InstallView.java"
+   text-time="2013-06-18T16:31:53.247189Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="ea87efcd1dad82647f445a200ac8d45e"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.143183Z"/>
+<entry
+   committed-rev="8425"
+   name="IntraSession.java"
+   text-time="2013-06-18T16:31:53.317193Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="a492b340ef20916010ff871723d96f0c"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.154184Z"/>
+<entry
+   committed-rev="8425"
+   name="PreView.java"
+   text-time="2013-06-18T16:31:53.354196Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="8e734e06721c2a360ace30a4c440e465"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.164185Z"/>
+<entry
+   committed-rev="8425"
+   name="NewView.java"
+   text-time="2013-06-18T16:31:53.366196Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="4e600765d722e75b3e2270a2895be941"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.175185Z"/>
+<entry
+   committed-rev="8425"
+   name="IntraLayer.java"
+   text-time="2013-06-18T16:31:53.378197Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="03140ba89667af8d0dcc817666c25e24"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.189186Z"/>
+<entry
+   committed-rev="8425"
+   name="View.java"
+   text-time="2013-06-18T16:31:53.389198Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="ded09d38c0ae6f61874c700f1ee746cd"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.199187Z"/>
+<entry
+   committed-rev="8425"
+   name="BlockedView.java"
+   text-time="2013-06-18T16:31:53.401198Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="041484789a44ae7cadaa41ebc9fce31c"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.208187Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:53.412199Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="90ad5ec5cec41aa2b7b3f55eca8e193c"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.218188Z"/>
+</wc-entries>

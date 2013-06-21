@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/gossipServer"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="GossipServerSession.java"
+   text-time="2013-06-18T16:31:49.920999Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="bc85412b77c2bc52e1d6af8e5bceaff9"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:49.833994Z"/>
+<entry
+   committed-rev="8425"
+   name="GossipGroupEvent.java"
+   text-time="2013-06-18T16:31:49.942000Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="e0d71384fba8bd59344a41e8b30c5562"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:49.846995Z"/>
+<entry
+   committed-rev="8425"
+   name="GossipServerLayer.java"
+   text-time="2013-06-18T16:31:49.960001Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="27c121b473d0ebf3a29797ef8326fb8d"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:49.859996Z"/>
+<entry
+   committed-rev="8425"
+   name="GossipServerTimer.java"
+   text-time="2013-06-18T16:31:49.981003Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="33b362260796826d89ae23fb9c87c985"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:49.886997Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:49.998004Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="00400002c9309716fb4e74bbefefb4b1"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:49.903998Z"/>
+</wc-entries>

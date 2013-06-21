@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/core/net/sf/appia/protocols/tcpcomplete"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="TcpUndeliveredEvent.java"
+   text-time="2013-06-18T16:31:39.501403Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="4826266e1c7959794f130155681df043"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.280391Z"/>
+<entry
+   committed-rev="8425"
+   name="AcceptReader.java"
+   text-time="2013-06-18T16:31:39.519404Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="cdf980b157767c4f26f2af7327b4a0fb"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.293391Z"/>
+<entry
+   committed-rev="8425"
+   name="TcpCompleteSession.java"
+   text-time="2013-06-18T16:31:39.536405Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="9af13db0487b0f5ec2a0faaa6e98b9e1"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.313392Z"/>
+<entry
+   committed-rev="8425"
+   name="Measures.java"
+   text-time="2013-06-18T16:31:39.568407Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="8a68748f484812ed14f6385372199cb8"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.334394Z"/>
+<entry
+   committed-rev="8425"
+   name="CloseTcpSocket.java"
+   text-time="2013-06-18T16:31:39.601409Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="176750ea18fc218d9c1dfe93f7229537"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.357395Z"/>
+<entry
+   committed-rev="8425"
+   name="SenderQueue.java"
+   text-time="2013-06-18T16:31:39.616410Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="72c21e1e66ddfdc7381dc655e6bc60bf"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.379396Z"/>
+<entry
+   committed-rev="8425"
+   name="TcpCompleteConfig.java"
+   text-time="2013-06-18T16:31:39.633411Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="16ab5e6c5c71ff54a9d057688f07ae90"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.390397Z"/>
+<entry
+   committed-rev="8425"
+   name="SocketInfoContainer.java"
+   text-time="2013-06-18T16:31:39.648412Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="5bd4237eb99d554f967da044fb76603b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.400397Z"/>
+<entry
+   committed-rev="8425"
+   name="TcpTimer.java"
+   text-time="2013-06-18T16:31:39.663412Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="aa4dc5b7af9c7c866feb07a7ac794691"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.414398Z"/>
+<entry
+   committed-rev="8425"
+   name="TcpReader.java"
+   text-time="2013-06-18T16:31:39.681413Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="5f872b7408af4336afbb27d88edae61b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.428399Z"/>
+<entry
+   committed-rev="8425"
+   name="Benchmark.java"
+   text-time="2013-06-18T16:31:39.704415Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="e2f3f51879472c50aae914a2908eaa59"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.441400Z"/>
+<entry
+   committed-rev="8425"
+   name="TcpCompleteLayer.java"
+   text-time="2013-06-18T16:31:39.728416Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="b0231b3f456a64c62f7e6d4b4ad8ba2c"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.460401Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:39.743417Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="960cdd48e10bd25dff6faaaff6cc0249"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.482402Z"/>
+</wc-entries>

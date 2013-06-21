@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/gossip"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="GossipServer.java"
+   text-time="2013-06-18T16:31:45.147726Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="c96905ff2292bd3ba6901af42701cc71"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:45.125725Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:45.159727Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="3d17d59af5cdbc42a4f1ff550fb101f5"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:45.135725Z"/>
+</wc-entries>

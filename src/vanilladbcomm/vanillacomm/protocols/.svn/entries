@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8502"
+   name=""
+   committed-date="2013-06-18T14:24:49.069354Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/vanilladbcomm/vanillacomm/protocols"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   name="tcpBasedPFD"
+   kind="dir"/>
+<entry
+   name="allAckURB"
+   kind="dir"/>
+<entry
+   name="tcpBasedPerfectP2P"
+   kind="dir"/>
+<entry
+   name="utils"
+   kind="dir"/>
+<entry
+   name="consensusUtils"
+   kind="dir"/>
+<entry
+   name="floodingConsensus"
+   kind="dir"/>
+<entry
+   name="uniformFloodingConsensus"
+   kind="dir"/>
+<entry
+   name="basicBroadcast"
+   kind="dir"/>
+<entry
+   name="events"
+   kind="dir"/>
+<entry
+   name="EagerRb"
+   kind="dir"/>
+<entry
+   name="consensusUTO"
+   kind="dir"/>
+<entry
+   name="zabAppl"
+   kind="dir"/>
+<entry
+   name="consensusPaxos"
+   kind="dir"/>
+<entry
+   name="basicPaxos"
+   kind="dir"/>
+</wc-entries>

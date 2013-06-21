@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/core/net/sf/appia/protocols/udpsimple"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="UdpSimpleLayer.java"
+   text-time="2013-06-18T16:31:40.177442Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="b5bca60b4c271ed598514a7bcc241df2"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.056435Z"/>
+<entry
+   committed-rev="8425"
+   name="SendableNotDeliveredEvent.java"
+   text-time="2013-06-18T16:31:40.200443Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="09185cc59d082ba8b71a63fb910bd202"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.070436Z"/>
+<entry
+   committed-rev="8425"
+   name="UdpSimpleSession.java"
+   text-time="2013-06-18T16:31:40.217444Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="fd257de034e2cb916bf0f0edaca59961"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.094437Z"/>
+<entry
+   committed-rev="8425"
+   name="MulticastInitEvent.java"
+   text-time="2013-06-18T16:31:40.246446Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="6093c1d42f64514267f961d45cafb3bd"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.128439Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:40.267447Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="555d8a579a30273216848e8dbcd25ec3"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:40.142440Z"/>
+</wc-entries>

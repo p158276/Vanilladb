@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/total/hybrid"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="MsgId.java"
+   text-time="2013-06-18T16:31:47.006832Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="1ba90a591ab45dc8fed616568615c67b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.739817Z"/>
+<entry
+   committed-rev="8425"
+   name="Configuration.java"
+   text-time="2013-06-18T16:31:47.036834Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="696509033a8db6f4ce9c0b00dff22b21"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.749818Z"/>
+<entry
+   committed-rev="8425"
+   name="Average.java"
+   text-time="2013-06-18T16:31:47.052835Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="9838fae2bee11d51f111e60126647c02"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.761818Z"/>
+<entry
+   committed-rev="8425"
+   name="SUMMARY"
+   text-time="2013-06-18T16:31:47.073836Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d9e6612ffbf35f15796dc2bd356ae4a0"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.772819Z"/>
+<entry
+   committed-rev="8425"
+   name="MessageList.java"
+   text-time="2013-06-18T16:31:47.095838Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="9dbe2ad96ddfcf9592d889f30c557812"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.785820Z"/>
+<entry
+   committed-rev="8425"
+   name="UniformTimer.java"
+   text-time="2013-06-18T16:31:47.115839Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="1b9adb7339b5f83e51dcd388c3e43791"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.797821Z"/>
+<entry
+   committed-rev="8425"
+   name="Delays.java"
+   text-time="2013-06-18T16:31:47.149841Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="b43e3985d5850da2a312308b4bd9d644"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.815822Z"/>
+<entry
+   committed-rev="8425"
+   name="TotalHybridLayer.java"
+   text-time="2013-06-18T16:31:47.166842Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="ade8fce54272c2830add26453a2c5040"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.826822Z"/>
+<entry
+   committed-rev="8425"
+   name="Ticket.java"
+   text-time="2013-06-18T16:31:47.185843Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="3b5abf42d40ca7ac21bb42240d8e8096"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.844823Z"/>
+<entry
+   committed-rev="8425"
+   name="TotalHybridTimer.java"
+   text-time="2013-06-18T16:31:47.199843Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d2d489546268568175b99f1d00c7ba54"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.859824Z"/>
+<entry
+   committed-rev="8425"
+   name="UnorderedTicketList.java"
+   text-time="2013-06-18T16:31:47.219845Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="7e104f86ea694c9a15a2add4220210ce"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.876825Z"/>
+<entry
+   committed-rev="8425"
+   name="ListOfTickets.java"
+   text-time="2013-06-18T16:31:47.233845Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="44a20fc4805e686e34ab36fbb2e7e525"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.888826Z"/>
+<entry
+   committed-rev="8425"
+   name="ConfigProps.java"
+   text-time="2013-06-18T16:31:47.259847Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="bb9d47190ed9989ba73b3427510c5e3e"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.904827Z"/>
+<entry
+   committed-rev="8425"
+   name="TotalHybridSession.java"
+   text-time="2013-06-18T16:31:47.274848Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="c37ab747e1b8c066de40785d71d7d427"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.937829Z"/>
+<entry
+   committed-rev="8425"
+   name="MessageNode.java"
+   text-time="2013-06-18T16:31:47.291849Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="60839afa97f53c6832eeb30afb9bfd32"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.955830Z"/>
+<entry
+   committed-rev="8425"
+   name="UniformInfoEvent.java"
+   text-time="2013-06-18T16:31:47.309850Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="37f92fadea36061e6c383f6ef5b15337"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.972831Z"/>
+<entry
+   committed-rev="8425"
+   name="TotalHybridHeader.java"
+   text-time="2013-06-18T16:31:47.336851Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="561111264f04b8ddb6931059ecdffeef"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:46.984831Z"/>
+</wc-entries>

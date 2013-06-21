@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8436"
+   name=""
+   committed-date="2013-06-14T16:24:14.327345Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/vanilladbcomm/vanillacomm/protocols/consensusUtils"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="Proposal.java"
+   text-time="2013-06-18T16:31:56.003347Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="6789084c63793a8965e8240b569adb5e"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:55.939343Z"/>
+<entry
+   committed-rev="8425"
+   name="TimestampValue.java"
+   text-time="2013-06-18T16:31:56.014348Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="e85e2e63b1d82ef9711225022243f0e2"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:55.955344Z"/>
+<entry
+   committed-rev="8425"
+   name="PaxosStringProposal.java"
+   text-time="2013-06-18T16:31:56.025348Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="50830b57cc3c0badf85225a97ce1d357"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:55.964345Z"/>
+<entry
+   committed-rev="8425"
+   name="StringProposal.java"
+   text-time="2013-06-18T16:31:56.036349Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="271be6697633dbbce4347043e898c72f"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:55.974345Z"/>
+<entry
+   committed-rev="8425"
+   name="IntProposal.java"
+   text-time="2013-06-18T16:31:56.054350Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="9057a6b17b96ad040e2e3c4c951e0421"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:55.983346Z"/>
+<entry
+   committed-rev="8436"
+   name="PaxosProposal.java"
+   text-time="2013-06-18T16:31:56.065351Z"
+   committed-date="2013-06-14T16:24:14.327345Z"
+   checksum="918a099454055abcad92579080b66728"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:55.991346Z"/>
+</wc-entries>

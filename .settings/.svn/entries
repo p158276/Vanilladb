@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/.settings"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="org.eclipse.jdt.core.prefs"
+   text-time="2013-06-18T16:32:13.208331Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="3ed8a973ccfa19fbd61961939d74af36"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:13.170329Z"/>
+<entry
+   committed-rev="8425"
+   name="org.eclipse.m2e.core.prefs"
+   text-time="2013-06-18T16:32:13.224332Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="66985cccd6a27c2401be11bc75d9ea23"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:13.184330Z"/>
+<entry
+   committed-rev="8425"
+   name="org.eclipse.jdt.ui.prefs"
+   text-time="2013-06-18T16:32:13.237333Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="45ceb47efc3cc93b075a4eda70365d7c"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:13.195330Z"/>
+</wc-entries>

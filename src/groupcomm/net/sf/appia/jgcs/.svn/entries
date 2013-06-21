@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/jgcs"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="AppiaControlSession.java"
+   text-time="2013-06-18T16:31:54.455258Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="670d9290e778d28af880151daf7870c8"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.738217Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaMessage.java"
+   text-time="2013-06-18T16:31:54.470259Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="c4523461496c092496ff1304f06f8498"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.755218Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaMarshallable.java"
+   text-time="2013-06-18T16:31:54.482260Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="d93f9e87d66bac1cd64fb33225057714"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.780220Z"/>
+<entry
+   name="protocols"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="AppiaProtocolFactory.java"
+   text-time="2013-06-18T16:31:54.516262Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="6f97a4b7abbae7092d9239fc5b3f4330"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.799221Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaGroup.java"
+   text-time="2013-06-18T16:31:54.548264Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="a633b3c6319607758d80542da34e0e4f"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:54.348252Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaServiceList.java"
+   text-time="2013-06-18T16:31:54.559264Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="1ce4af622b9fab9bcfb8380e89d49993"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:54.357253Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaService.java"
+   text-time="2013-06-18T16:31:54.596267Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="4eaf4d204c2b54589fac62f47d3f10e4"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:54.390255Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaUtils.java"
+   text-time="2013-06-18T16:31:54.607267Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="0d4e4f90dc166e54ecb8dc165cbc5563"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:54.405256Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaProtocol.java"
+   text-time="2013-06-18T16:31:54.622268Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="79e674ef3182fa8ddc9ba2f5c4dc3025"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:54.428257Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaMembershipID.java"
+   text-time="2013-06-18T16:31:54.495261Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="1f5ad0d0770c55a3df7f2f8d2c82f6e6"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:53.790220Z"/>
+<entry
+   committed-rev="8425"
+   name="MessageSender.java"
+   text-time="2013-06-18T16:31:54.527263Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="f9aa0787641d5df7817e908621d60603"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:54.331251Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaDataSession.java"
+   text-time="2013-06-18T16:31:54.571265Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="afa3a7719a1426732414f4432f5a9565"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:54.370254Z"/>
+<entry
+   committed-rev="8425"
+   name="jGCSAppiaRunnable.java"
+   text-time="2013-06-18T16:31:54.584266Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="cfa95e31c0ae6703ed6f8744f3e37382"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:54.381254Z"/>
+<entry
+   committed-rev="8425"
+   name="MessageFactoryImpl.java"
+   text-time="2013-06-18T16:31:54.642269Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="de01c77d56a1c0c833f7d3ac617a5015"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:54.438258Z"/>
+</wc-entries>

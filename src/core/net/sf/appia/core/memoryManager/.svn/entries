@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/core/net/sf/appia/core/memoryManager"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="AppiaWrongSizeException.java"
+   text-time="2013-06-18T16:31:43.410627Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="138acaa1bd21f60feaf4c80e5d4da79e"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.301621Z"/>
+<entry
+   committed-rev="8425"
+   name="MemoryManager.java"
+   text-time="2013-06-18T16:31:43.454629Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="adac122288625591059cf6bb41e13c94"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.311621Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:43.500632Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="1798c3a32d13e20dae24ec712b996282"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:43.339623Z"/>
+</wc-entries>

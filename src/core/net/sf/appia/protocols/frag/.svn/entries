@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/core/net/sf/appia/protocols/frag"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="FragTimer.java"
+   text-time="2013-06-18T16:31:39.095380Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="96f7768420893363bcc1fa08de0a2501"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:38.972373Z"/>
+<entry
+   committed-rev="8425"
+   name="FragEvent.java"
+   text-time="2013-06-18T16:31:39.110381Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="cc6224be8ae862de8cd7ad9da6a1546a"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:38.985374Z"/>
+<entry
+   committed-rev="8425"
+   name="FragSession.java"
+   text-time="2013-06-18T16:31:39.127382Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="9bbf9a8491d74dd9f4134ef97853d07e"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.003375Z"/>
+<entry
+   committed-rev="8425"
+   name="FragConfig.java"
+   text-time="2013-06-18T16:31:39.151383Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="1035546cfd847f203182cb4206210c16"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.021376Z"/>
+<entry
+   committed-rev="8425"
+   name="MaxPDUSizeEvent.java"
+   text-time="2013-06-18T16:31:39.167384Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="60be3dd0a658980234bf7659a1541f8a"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.038377Z"/>
+<entry
+   committed-rev="8425"
+   name="FragLayer.java"
+   text-time="2013-06-18T16:31:39.201386Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="6f91254f74abcb94689151aa99f8264b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.055378Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:39.217387Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="31bd56c024b86574631b59eb584abe71"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.079379Z"/>
+</wc-entries>

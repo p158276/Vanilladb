@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/lib"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="jgcs-0.6.1.jar"
+   text-time="2013-06-18T16:32:12.869312Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="6fcf743906dbef05b9fe1f6cdbb0db4b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:12.327281Z"/>
+<entry
+   committed-rev="8425"
+   name="flanagan.jar"
+   text-time="2013-06-18T16:32:12.894313Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="92fd711f1b6ebc34fcc71838695e60d2"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:12.693302Z"/>
+<entry
+   committed-rev="8425"
+   name="README.txt"
+   text-time="2013-06-18T16:32:12.913314Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="249580500e90ad451a97fe45f2ce4397"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:12.713303Z"/>
+<entry
+   committed-rev="8425"
+   name="log4j-1.2.14.jar"
+   text-time="2013-06-18T16:32:12.931315Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="599b8ba07d1d04f0ea34414e861d7ad1"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:12.852311Z"/>
+</wc-entries>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8429"
+   name=""
+   committed-date="2013-06-14T09:17:31.788395Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/vanilladbcomm/vanillacomm/protocols/consensusUTO"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8429"
+   name="ConsensusUTOLayer.java"
+   text-time="2013-06-18T16:31:57.817451Z"
+   committed-date="2013-06-14T09:17:31.788395Z"
+   checksum="f4c358a983c5ffa2840e36515243d3db"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:57.744447Z"/>
+<entry
+   committed-rev="8429"
+   name="OrderProposal.java"
+   text-time="2013-06-18T16:31:57.835452Z"
+   committed-date="2013-06-14T09:17:31.788395Z"
+   checksum="19b46e3077267e6e5fe979ca7588004b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:57.760448Z"/>
+<entry
+   committed-rev="8429"
+   name="ConsensusUTOSession.java"
+   text-time="2013-06-18T16:31:57.853453Z"
+   committed-date="2013-06-14T09:17:31.788395Z"
+   checksum="68e9c655bc01f73451811893d4d03841"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:57.778449Z"/>
+<entry
+   committed-rev="8429"
+   name="package.html"
+   text-time="2013-06-18T16:31:57.871454Z"
+   committed-date="2013-06-14T09:17:31.788395Z"
+   checksum="b79156e7c8cf4cfe23478e32c103755c"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:57.799450Z"/>
+</wc-entries>

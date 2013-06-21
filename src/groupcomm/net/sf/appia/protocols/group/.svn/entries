@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/group"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   name="inter"
+   kind="dir"/>
+<entry
+   name="primary"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="ArrayOptimized.java"
+   text-time="2013-06-18T16:31:53.438200Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="766c02484ba69470cbe8eb73304c4104"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:50.802050Z"/>
+<entry
+   committed-rev="8425"
+   name="AppiaBitSet.java"
+   text-time="2013-06-18T16:31:53.458201Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="c6ec84591f71b608d6f8f97a884a4794"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:50.816050Z"/>
+<entry
+   name="suspect"
+   kind="dir"/>
+<entry
+   name="phiSuspect"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="Endpt.java"
+   text-time="2013-06-18T16:31:53.488203Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="7c7a16664512fea5326a27b290b6549f"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.405084Z"/>
+<entry
+   committed-rev="8425"
+   name="ViewState.java"
+   text-time="2013-06-18T16:31:53.526205Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="81a82d1b4ac230a0cea80bbdb5c34f6a"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.604095Z"/>
+<entry
+   committed-rev="8425"
+   name="EventBuffer.java"
+   text-time="2013-06-18T16:31:53.514205Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="55c0104f2c7e6fc115738cef1895cad6"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.592095Z"/>
+<entry
+   name="remote"
+   kind="dir"/>
+<entry
+   name="leave"
+   kind="dir"/>
+<entry
+   name="vsyncmultiplexer"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:53.539206Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="97b71f1a4b1469b36a5afc77c350fd9e"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.921114Z"/>
+<entry
+   name="utils"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="AppiaGroupError.java"
+   text-time="2013-06-18T16:31:53.550207Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="0d956aba7eb815331ff2f0c098bc80a0"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.050121Z"/>
+<entry
+   name="bottom"
+   kind="dir"/>
+<entry
+   name="events"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="AppiaGroupException.java"
+   text-time="2013-06-18T16:31:53.567208Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="3f836558150d19304fb5498dfe61d9c8"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.369139Z"/>
+<entry
+   committed-rev="8425"
+   name="ViewID.java"
+   text-time="2013-06-18T16:31:53.580208Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="981c6ba134c013750f17b216a770cc9b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.380140Z"/>
+<entry
+   name="heal"
+   kind="dir"/>
+<entry
+   name="stable"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="LocalState.java"
+   text-time="2013-06-18T16:31:53.600210Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="b14be8a92d7024ee854170d6afc1a21b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.854167Z"/>
+<entry
+   name="sync"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="Group.java"
+   text-time="2013-06-18T16:31:53.616210Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="4b53530255ece9a8a302ab197c6dfb4e"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:52.867168Z"/>
+<entry
+   name="intra"
+   kind="dir"/>
+</wc-entries>

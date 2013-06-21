@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/core/net/sf/appia/protocols/utils"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="ListBuffer.java"
+   text-time="2013-06-18T16:31:39.899426Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="da0e0cc0033c41824efdb0da957054c4"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.805421Z"/>
+<entry
+   committed-rev="8425"
+   name="Buffer.java"
+   text-time="2013-06-18T16:31:39.925427Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="e775c124f3a8328cf5f74fee4d381308"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.819421Z"/>
+<entry
+   committed-rev="8425"
+   name="ParseUtils.java"
+   text-time="2013-06-18T16:31:39.941428Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="0fd0af3f3e87eb31e0124bb7da1c6a95"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.838422Z"/>
+<entry
+   committed-rev="8425"
+   name="HostUtils.java"
+   text-time="2013-06-18T16:31:39.963430Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="dc8b6da4b7888fa6469746ff43f0715d"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.854423Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:39.983431Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="a00893055ace66815fa35cd8752b675d"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:39.874425Z"/>
+</wc-entries>

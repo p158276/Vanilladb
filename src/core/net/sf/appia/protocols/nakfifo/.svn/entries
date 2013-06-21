@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/core/net/sf/appia/protocols/nakfifo"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="PingEvent.java"
+   text-time="2013-06-18T16:31:42.452572Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="100594b9dea7a5c45b981cf691c0e407"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.117553Z"/>
+<entry
+   committed-rev="8425"
+   name="NakFifoSession.java"
+   text-time="2013-06-18T16:31:42.489574Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="6ee2949bc5788e56a596817d37ee5ae0"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.140554Z"/>
+<entry
+   name="multicast"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="IgnoreEvent.java"
+   text-time="2013-06-18T16:31:42.508575Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="53c4d4eafcf1fc12dd9eb128e354574f"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.150555Z"/>
+<entry
+   committed-rev="8425"
+   name="MessageUtils.java"
+   text-time="2013-06-18T16:31:42.523576Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="773b402c7b8fbcd97422484ec2361855"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.158555Z"/>
+<entry
+   committed-rev="8425"
+   name="Nacked.java"
+   text-time="2013-06-18T16:31:42.535577Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="0a8dd8d7552b073c0f2f528dae9b029a"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.171556Z"/>
+<entry
+   committed-rev="8425"
+   name="NakFifoLayer.java"
+   text-time="2013-06-18T16:31:42.551578Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="79a47328b1de6cddca5d4d9d387e5ee8"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.381568Z"/>
+<entry
+   committed-rev="8425"
+   name="Peer.java"
+   text-time="2013-06-18T16:31:42.564578Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="8e8b87a1cd9cee06f1804b03319766f2"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.395569Z"/>
+<entry
+   committed-rev="8425"
+   name="NackEvent.java"
+   text-time="2013-06-18T16:31:42.577579Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="4fb28b1a1366d0fbd6a16d84a6ae6237"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.407569Z"/>
+<entry
+   committed-rev="8425"
+   name="NakFifoTimer.java"
+   text-time="2013-06-18T16:31:42.589580Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="868393827a9ecc493e7e5bebd789ff2b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.421570Z"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:31:42.601580Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="938ecc826eb4854054ea05e7d233f751"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:42.433571Z"/>
+</wc-entries>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/classes/net/sf/appia/xml"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   name="utils"
+   kind="dir"/>
+<entry
+   name="interfaces"
+   kind="dir"/>
+<entry
+   name="templates"
+   kind="dir"/>
+<entry
+   committed-rev="8425"
+   name="package.html"
+   text-time="2013-06-18T16:32:00.450601Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="775b71ad8964a17e6542536471f58e49"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:32:00.317594Z"/>
+</wc-entries>

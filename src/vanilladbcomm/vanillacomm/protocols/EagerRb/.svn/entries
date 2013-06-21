@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/vanilladbcomm/vanillacomm/protocols/EagerRb"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="EagerRBLayer.java"
+   text-time="2013-06-18T16:31:57.172414Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="a024bcc4b79ddedf7f32262201985db1"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:57.091409Z"/>
+<entry
+   committed-rev="8425"
+   name="EagerRBSession.java"
+   text-time="2013-06-18T16:31:57.636440Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="26fd424367a1b558ae022920800a217b"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:57.118411Z"/>
+</wc-entries>

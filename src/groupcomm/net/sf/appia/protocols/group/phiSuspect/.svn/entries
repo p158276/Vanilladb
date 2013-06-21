@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8425"
+   name=""
+   committed-date="2013-06-14T05:59:59.820720Z"
+   url="https://netdb.cs.nthu.edu.tw/svn/software/vanilladb-comm/trunk/vanilladb-comm/src/groupcomm/net/sf/appia/protocols/group/phiSuspect"
+   last-author="mkliao"
+   kind="dir"
+   uuid="4b93b478-d1e3-4618-9d98-5526bb301a95"
+   repos="https://netdb.cs.nthu.edu.tw/svn"
+   revision="8536"/>
+<entry
+   committed-rev="8425"
+   name="PhiSuspectLayer.java"
+   text-time="2013-06-18T16:31:51.289077Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="8bf1efad88fe8a0cfd8fadb4901ae09a"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.198072Z"/>
+<entry
+   committed-rev="8425"
+   name="SuspectTimer.java"
+   text-time="2013-06-18T16:31:51.342080Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="cdc2c17a0fe95a37c67487b996e2ebf2"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.212073Z"/>
+<entry
+   committed-rev="8425"
+   name="PhiSuspectSession.java"
+   text-time="2013-06-18T16:31:51.380083Z"
+   committed-date="2013-06-14T05:59:59.820720Z"
+   checksum="0d6bb46c6176ec08b81fb7910674d6b1"
+   last-author="mkliao"
+   kind="file"
+   prop-time="2013-06-18T16:31:51.231074Z"/>
+</wc-entries>
